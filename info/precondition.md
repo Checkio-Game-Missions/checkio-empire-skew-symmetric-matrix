@@ -1,4 +1,3 @@
 **Precondition:**
-```python
-0 < len(matrix)
-```
+
+A `matrix` is square and non-empty.
